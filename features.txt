@@ -1,0 +1,8 @@
+- "Easy to code"
+- "Easy to read"
+- "Expressive (understand after seeing code)"
+- "Free and open source(Apps we download from playstore)"
+- "Robust support of libraries (vast community, ~4 lac libraries)-(libraries are scikit,spacy,tensorflow)"
+- "Interpreted (code is executed line by line without using compiler explicitly)"
+- "Portable (same code can work on windows, linux and macos)"
+- "Object oriented and procedure oriented/also known as functional programming."
