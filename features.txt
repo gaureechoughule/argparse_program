@@ -1,6 +1,6 @@
 - "Easy to code"
 - "Easy to read"
-- "Expressive (understand after seeing code)"
+- "Expressive (understands and readable after seeing code)"
 - "Free and open source(Apps we download from playstore)"
 - "Robust support of libraries (vast community, ~4 lac libraries)-(libraries are scikit,spacy,tensorflow)"
 - "Interpreted (code is executed line by line without using compiler explicitly)"
